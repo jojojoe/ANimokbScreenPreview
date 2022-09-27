@@ -1,0 +1,7 @@
+ANimokbScreenPreview.xcodeproj/xcuserdata/
+ANimokbScreenPreview.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+ANimokbScreenPreview.xcodeproj/project.xcworkspace/xcuserdata/
